@@ -17,11 +17,8 @@ This project demonstrates a professional enterprise network setup built in Cisco
 - Switch Security Feature(Port-Security)
 
 ## 🖥️ Topology Diagram!
-Image https://github.com/user-attachments/assets/3522c6ca-bb96-4616-9c16-251719a99739)
 
-
-
-
+[ Network Topology ](https://github.com/user-attachments/assets/7e9ffd51-55fb-4c57-b9c6-080de3a4593c)
 
 
 ## 📁 Files Included
