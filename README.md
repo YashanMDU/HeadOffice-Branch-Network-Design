@@ -22,7 +22,7 @@ This project demonstrates a professional enterprise network setup built in Cisco
 
 
 ## 📁 Files Included
-- `Enterprise_Network_Project.pkt` — Main Packet Tracer file
+- `Network_Project.pkt` — Main Packet Tracer file
 - `README.md` — Project summary
 - `IP_Plan.pdf` — (Optional) Subnetting and VLAN plan
 
