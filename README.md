@@ -8,13 +8,12 @@ This project demonstrates a professional enterprise network setup built in Cisco
 - Inter-VLAN Routing using Router-on-a-Stick
 - EIGRP Routing between sites
 - DHCP Server
-- DHCP Snooping
 - Web Server and DNS
 - IP Phones with inter-site communication
 - Wireless Router Integration
 - Etherchannel
-- Switch and Router Management
-- Switch Security Feature(Port-Security)
+- Switch and Router Management (Telnet , SSH)
+- Switch Security Features: Port-Security , DHCP Snooping , SSH 
 
 ## 🖥️ Topology Diagram!
 
